@@ -1,6 +1,6 @@
 cask "pnow" do
-  version "0.0.4"
-  sha256 "3d3491d550f811a805517d9df73e5abd82edc5986a6527fd331e1c5976de0928"
+  version "0.1.0"
+  sha256 "33dab90d27024fc2e57b942eade9389c630edcf07d9f5b3d1453bbd31709727f"
 
   url "https://github.com/tarasyarema/pnow/releases/download/v#{version}/pnow-#{version}.zip"
   name "pnow"
